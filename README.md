@@ -14,7 +14,7 @@ Welcome to EchoScape OS! Connect your Raspberry Pi to use it in the local networ
 
 ## Get Started
 
-Ready to experience EchoScape OS? [Click here](https://echoscape.onrender.com) to get started!
+Ready to experience EchoScape OS? [Click here](https://echoscape-os.onrender.com) to get started!
 
 ## Join the Conversation
 
