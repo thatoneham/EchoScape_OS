@@ -1,3 +1,7 @@
+# version 0.0.5
+
+- **added variables and the ability to select vars and copy the last output to that selected var**
+
 # Welcome to EchoScape OS 🚀
 
 ## Introduction
